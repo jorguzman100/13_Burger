@@ -85,6 +85,8 @@ var orm = {
         console.log(queryString);
         connection.query(queryString, function (err, result) {
             if (err) {
+                console.log('***ERROR***');
+                console.log(err);
                 throw err;
             }
 

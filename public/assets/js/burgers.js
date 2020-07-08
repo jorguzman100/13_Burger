@@ -26,9 +26,10 @@ $(function() {
     event.preventDefault();
 
     var newBurger = {
-      name: $("#ca").val().trim(),
+      burger_name: $("#ca").val().trim(),
       devoured: $("[name=devoured]:checked").val().trim()
     };
+    console.log('newBurger: ', newBurger);
 
     // Send the POST request.
     $.ajax("/api/burgers", {

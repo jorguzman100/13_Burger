@@ -101,7 +101,7 @@ To install the project follow these steps:
 
 **Tutorials**
 
-[Connecting to MySQL from Command Line on macOS and Linux](<[http:"#"](https://www.youtube.com/watch?v=Xrw0m_333OU)>)
+[Connecting to MySQL from Command Line on macOS and Linux](https://www.youtube.com/watch?v=Xrw0m_333OU)
 
 ## Contributing
 

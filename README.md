@@ -72,11 +72,11 @@ With the described process we were able to create an application that allows the
 
 ## Installation and Usage - PENDING
 
-The project was uploaded to [GitHub](https://github.com/) at the following repository:
+The project was uploaded to [GitHub](https://github.com/) at the following repository: \
 [https://github.com/jorguzman100/13_Burger](https://github.com/jorguzman100/13_Burger)
 
-You can access the deployed application with the Heroku link:
-[]()
+You can access the deployed application with the Heroku link: \
+[https://pure-sea-37991.herokuapp.com/](https://pure-sea-37991.herokuapp.com/)
 
 To install the project follow these steps:
 
